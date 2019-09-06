@@ -17,7 +17,7 @@ Below is my work for Heinz College's data viz course, "Telling Stories with Data
 ## Data Visualization Critiques
 
 ## Workshops
-[This is my Portfolio](https://spcuff.github.io/Data-Viz/portfolio)
+[This is my Portfolio](https://spcuff.github.io/Data-Viz/portfolio/)
 
 ## Project Pages
 
