@@ -11,13 +11,17 @@ Effective data visualizations can be better than even the best argument. I saw t
 Ultimately, I hope to make some meaningful change in some small way. Effectively communicating the benefits and reasons for that change is something to always work toward improving and perfecting. Adding data visualization methods and skills can be another tool in trying to do just that.
 
 
-# This is my Portfolio
+# Portfolio
 Below is my work for Heinz College's data viz course, "Telling Stories with Data."
 
-## Data Visualization Critiques
+## Data Visualization Assignments
+### OECD Data - General Government Debt
+
+<iframe src="https://data.oecd.org/chart/5FJi" width="860" height="645" style="border: 0" mozallowfullscreen="true" webkitallowfullscreen="true" allowfullscreen="true"><a href="https://data.oecd.org/chart/5FJi" target="_blank">OECD Chart: General government debt, Total, % of GDP, Annual, 2015</a></iframe>
+
 
 ## Workshops
-[This is my Portfolio](https://spcuff.github.io/Data-Viz/portfolio/)
+
 
 ## Project Pages
 
