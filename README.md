@@ -16,6 +16,10 @@ Below is my work for Heinz College's data viz course, "Telling Stories with Data
 
 ## Data Visualization Assignments
 ### OECD Data - General Government Debt
+This collection of data visualizations explores time series data collected by the Organization for Economic Cooperation and Development (OECD). We explore the growth and decline of general goverment debt ratios as a percentage of debt to GDP in OECD counties. The first visualization presented below was developed by the OECD to represent comparative debt ratio data from 2017. The second and third visualizations were adepted to show comparative changes over time from the years 2015 to 2018. The former visualization utilizes a beeswarm graph, while the latter is a horizon graph.
+
+There are a number of 
+
 #### Bar Graphs
 <iframe src="https://data.oecd.org/chart/5FJi" width="860" height="645" style="border: 0" mozallowfullscreen="true" webkitallowfullscreen="true" allowfullscreen="true"><a href="https://data.oecd.org/chart/5FJi" target="_blank">OECD Chart: General government debt, Total, % of GDP, Annual, 2015</a></iframe>
 
