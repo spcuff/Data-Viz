@@ -24,7 +24,7 @@ In this case, the solution is in the process and the fight. I hope this project 
 
 ## Initial Sketches
 
-
+![Initial Wireframs](https://spcuff.github.io/Data-Viz/images/DataViz-FinalProjectOverview.png)
 
 ## Data
 Primary Source: Pennsylvania Department of Environmental Protection (DEP) – [Solid Waste Disposal Data](http://www.depgreenport.state.pa.us/powerbiproxy/powerbi/Public/DEP/WM/PBI/Solid_Waste_Disposal_Information)
