@@ -37,3 +37,24 @@ In terms of methods, I plan to use the Tableau to help manage the amount of data
 For user research, I will contact FOL’s leadership and members for feedback as I develop the story and data visualizations. Ultimately, a goal of this project is for it to be an actionable and compelling resource for their efforts.
 
 The medium I hope to use is Shorthand. It looks to be a polished platform that would be easy for organizers to link to and share. Most of their communications are through social media, so a medium conducive to that will best serve the project.
+
+## User Research Plan
+### Background
+This project is focused on providing data visualizations of solid waste tonnage accepted by the Keystone Sanitary Landfill (KSL) in Dunmore, PA. It is my hope that this project will better serve local community group, Friends of Lackawanna’s (FOL) campaign to prevent an unprecedented 40-year expansion of KSL.
+
+To complete the user research, I will be speaking to two active members of FOL and one resident of Dunmore who is aware of their work, but not actively participating in their organization or campaign. I anticipate this process will improve my audience targeting to better connect with residents. In addition to improved messaging, I expect reviewing mock-up data visualizations both expand the scope of relevant data, and ensure the visualizations are presenting the data in a widely understandable way.
+
+This will be a review of existing story boards, wireframes, and data sources.
+
+### Metrics of Success
+1.	Whether participants understand the message and goals of the project.
+1.	Does the story and data, as presented, add value to the organization/debate occurring in the community?
+1.	Whether the viewer is visually stimulated by the presentation of the data.
+
+### Methods
+* 10 minute interviews with FOL organizers and local residents
+* Note taking
+* Face-time or video chat as all participants are remote and physical reactions are valuable data
+
+_NOTE: Due to a newly launched write-in campaign for Borough Council, responses to user research requests have been slower than expected. This section will be updated shortly._
+
