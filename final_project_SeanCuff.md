@@ -34,6 +34,8 @@ Primary Source: Pennsylvania Department of Environmental Protection (DEP) – [S
 
 This data set includes annual data on the solid waste tonnage accepted by collection sites in Pennsylvania, including specific data by PA Counties and neighboring states. The set also includes data on the types of solid waste accepted by a facility, including asbestos, construction/demolition, and sewage sludge, among others. 
 
+Waste Type Rsearch: [Residual Waste - DEP](https://www.dep.pa.gov/Business/Land/Waste/SolidWaste/Residual/Pages/WhatIs.aspx)
+
 ## Method and Medium
 In terms of methods, I plan to use the Tableau to help manage the amount of data and its configuration. As a means of presenting certain aspects of the data, I would like to find a way to transpose that data onto topographical forms. Based on my current thought process, this wouldn’t be in GIS as I would like to present that data comparatively (ex: heights of different buildings, adjacent mountaintops, etc.). To convey the timeline of events to provide context to the story, I would like to use an interactive feature to encourage views to interact with the details.
 
