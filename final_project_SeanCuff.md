@@ -1,5 +1,8 @@
 # Final Project Overview
 
+## My Final Data Story
+[A Garbage Deal](https://carnegiemellon.shorthandstories.com/garbagedeal-seancuff/index.html)
+
 ## Project Description
 For the last three years, the Friends of Lackawanna (FOL), a non-profit based out of Dunmore in Northeastern Pennsylvania, have been fighting an unprecedented expansion of the Keystone Sanitary Landfill (KSL). Up against a 40-year expansion plan, nearly 100 million more tons of most out of state trash, and business as usual politics, FOL has articulately defended their position in Borough Council meetings and in court, all while invigorating a public movement that is ushering transparency and public outrage against the status quo.
 
@@ -56,7 +59,11 @@ This will be a review of existing story boards, wireframes, and data sources.
 * Note taking
 * Face-time or video chat as all participants are remote and physical reactions are valuable data
 
-_NOTE: Due to a newly launched write-in campaign for Borough Council, responses to user research requests have been slower than expected. This section will be updated shortly._
+### Findings
+1. User requested data be shared on the growth of residual waste coming into the community.
+1. User felt the story lacked concision. For them, it seemed I was trying to tell the whole story, and in reality telling multiple, weaker stories in the process.
+1. User noticed there was no clear call to action at the end of the story.
+1. User suggested the timeline of events was outside of the scope of the story.
 
 ### Shared Storyboard for User Review
 ![StoryBoard1_4](https://spcuff.github.io/Data-Viz/images/Storyboard1_4.jpg)
@@ -64,5 +71,3 @@ _NOTE: Due to a newly launched write-in campaign for Borough Council, responses 
 ![StoryBoard5_8](https://spcuff.github.io/Data-Viz/images/Storyboard5_8.jpg)
 
 ![StoryBoard9_11](https://spcuff.github.io/Data-Viz/images/Storyboard9_11.jpg)
-
-![test](<div class='tableauPlaceholder' id='viz1570671073112' style='position: relative'><noscript><a href='#'><img alt=' ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;To&#47;TotalbyYearTotalReceived&#47;BuildingtheHill&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='TotalbyYearTotalReceived&#47;BuildingtheHill' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;To&#47;TotalbyYearTotalReceived&#47;BuildingtheHill&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='filter' value='publish=yes' /></object></div>                <script type='text/javascript'>                    var divElement = document.getElementById('viz1570671073112');                    var vizElement = divElement.getElementsByTagName('object')[0];                    vizElement.style.width='100%';vizElement.style.height=(divElement.offsetWidth*0.75)+'px';                    var scriptElement = document.createElement('script');                    scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    vizElement.parentNode.insertBefore(scriptElement, vizElement);                </script>)
