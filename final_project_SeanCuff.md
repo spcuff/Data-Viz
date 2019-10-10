@@ -73,3 +73,17 @@ This will be a review of existing story boards, wireframes, and data sources.
 ![StoryBoard5_8](https://spcuff.github.io/Data-Viz/images/Storyboard5_8.jpg)
 
 ![StoryBoard9_11](https://spcuff.github.io/Data-Viz/images/Storyboard9_11.jpg)
+
+## Audience
+The intended audience of my data story, “A Garbage Deal,” are individuals familiar and/or participating in the Friends of Lackawanna’s campaign against the Keystone Sanitary Landfill expansion. I determined this to be the best approach because of the high local context necessary to understand the issue from an outsider’s perspective. Though this would be an ideal final audience to reach, my extent of participation in the organization does not make me the best voice to do so.
+
+Ideally, I hope this story will inform my target audience in a way that arms them with the facts. It is my hope that this medium could be expanded upon by FOL to better make their case and improve their campaign on their terms. Through the user research I have done so far, I will connect the campaign leadership with the tools I used to create my story.
+
+## Design Decisions
+There were a few specific design decisions I made that can provide a behind the scenes look into my process and intentions. 
+
+* As a color scheme, I matched FOLs green because I wanted this to be a tool I could pass off to them.
+* In the second visualization, I intentionally wanted the graphic to scroll horizontally. There is a lot of information displayed in a relatively small space, but I believe it highlights the number of counties and states contributing to the landfill.
+* Inclusion of a scroll bar for annual data allows the viewer to do some exploring themselves and engage with the data.
+* Aggregated data is generally the topline data users found most useful. Presenting that first seemed best.
+* Inclusion of the FOL photo – _Mountain of Garbage_ – captured, in my opinion, much of the context an outside observer would need should they also be interested in this story.
