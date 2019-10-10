@@ -1,7 +1,7 @@
 # Final Project Overview
 
 ## My Final Data Story
-[A Garbage Deal](https://carnegiemellon.shorthandstories.com/garbagedeal-seancuff/index.html)
+### [A Garbage Deal](https://carnegiemellon.shorthandstories.com/garbagedeal-seancuff/index.html)
 
 ## Project Description
 For the last three years, the Friends of Lackawanna (FOL), a non-profit based out of Dunmore in Northeastern Pennsylvania, have been fighting an unprecedented expansion of the Keystone Sanitary Landfill (KSL). Up against a 40-year expansion plan, nearly 100 million more tons of most out of state trash, and business as usual politics, FOL has articulately defended their position in Borough Council meetings and in court, all while invigorating a public movement that is ushering transparency and public outrage against the status quo.
