@@ -60,8 +60,8 @@ User feedback made the fine tuning of my design much easier. After first designi
 ![Affording the Affordable Housing Market](https://spcuff.github.io/Data-Viz/images/story.critique4.png)
 Source: ACTION-Housing and US Health & Human Services
 
-## Workshops
+## Final Project Page
+### [Project Oveview and User Research](https://spcuff.github.io/Data-Viz/final_project_SeanCuff)
+### [Final Project - A Garbage Deal](https://carnegiemellon.shorthandstories.com/garbagedeal-seancuff/index.html)
 
-
-## Project Pages
 
